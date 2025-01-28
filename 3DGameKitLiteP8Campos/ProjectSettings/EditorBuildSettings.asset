@@ -14,4 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Gus's Box.unity
     guid: fc05287a404e0c44081c94f58addc2dd
+  - enabled: 1
+    path: Assets/TestPlace.unity
+    guid: 5140475bdf9d06b4684c62db5cf7bd4a
   m_configObjects: {}
